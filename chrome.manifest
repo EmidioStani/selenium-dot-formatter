@@ -1,0 +1,4 @@
+content dotformatter chrome/content/
+
+# Custom format
+overlay chrome://selenium-ide/content/selenium-ide-common.xul chrome://dotformatter/content/formats/Dotformat-loader.xul
